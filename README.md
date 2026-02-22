@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohsina%20Firdous%20Kamarudeen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohsina%20Firdous%20Kamarudeen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Data%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Currently+building+a+dental+imaging+AI+in+clinical+partnership+🦷;3%2B+years+across+Healthcare%2C+Industrial+%26+Financial+sectors;5%2B+peer-reviewed+IEEE+%26+Scopus+publications+📄;Hackathon+winner+%7C+Sydney%2C+NSW+%7C+Full+Work+Rights+🇦🇺)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@ I'm an **ML Engineer with 3+ years of experience** building and deploying machin
 
 My experience spans **Healthcare, Industrial, and Financial** sectors, which means I've had to learn how ML looks very different depending on the problem, the data, and the people using the output. I care about building things that actually get used — not just models that look good on paper.
 
-I also publish what I build. With **5+ peer-reviewed papers** in IEEE and Scopus-indexed journals, I'm comfortable going deep on research without losing sight of what needs to ship.
+ With **5+ peer-reviewed papers** in IEEE and Scopus-indexed journals, I'm comfortable going deep on research without losing sight of what needs to ship.
 
 Based in **Sydney, NSW** with full Australian work rights, actively looking for my next role in ML, Data Science, or AI.
 
