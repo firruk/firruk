@@ -1,64 +1,86 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohsina%20Firdous%20Kamarudeen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Computer%20Vision%20Specialist&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohsina%20Firdous%20Kamarudeen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🏥+Building+AI+that+saves+lives+in+healthcare;🏭+94%25+fault+detection+in+industrial+systems;🦷+92%25+accuracy+in+dental+imaging+AI;🏆+Hackathon+Winner+%7C+5%2B+IEEE+Publications;📍+Sydney%2C+NSW+%7C+Open+to+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Currently+building+a+dental+imaging+AI+in+clinical+partnership+🦷;3%2B+years+across+Healthcare%2C+Industrial+%26+Financial+sectors;5%2B+peer-reviewed+IEEE+%26+Scopus+publications+📄;Hackathon+winner+%7C+Sydney%2C+NSW+%7C+Full+Work+Rights+🇦🇺)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badges row -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-firruk.github.io-8B5CF6?style=for-the-badge&logoColor=white)](https://firruk.github.io/Mohsinafk/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-firruk.github.io-8B5CF6?style=for-the-badge)](https://firruk.github.io/Mohsinafk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsinafirdousk)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinafirdousk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinafirdousk@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-firruk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firruk)
 
 </div>
 
 ---
 
-## 🧬 Who Am I?
+## 👋 About Me
 
-> *"Born in India, raised in Oman, transforming data in Sydney — I build ML systems that bridge the gap between cutting-edge research and real-world impact."*
+I'm an **ML Engineer with 3+ years of experience** building and deploying machine learning systems — currently leading a production **dental imaging AI** project in clinical partnership.
 
-I'm an **ML Engineer with 3+ years** of hands-on experience deploying production-grade AI across **Healthcare, Industrial, and Financial** sectors. I don't just build models — I ship end-to-end systems: from raw data pipelines to mobile applications that doctors and engineers actually use.
+My experience spans **Healthcare, Industrial, and Financial** sectors, which means I've had to learn how ML looks very different depending on the problem, the data, and the people using the output. I care about building things that actually get used — not just models that look good on paper.
 
-What sets me apart? I combine the **ownership mindset** from years in my family's business, the **agility of the startup world**, and the **rigour of published academic research** — all in one person.
+I also publish what I build. With **5+ peer-reviewed papers** in IEEE and Scopus-indexed journals, I'm comfortable going deep on research without losing sight of what needs to ship.
+
+Based in **Sydney, NSW** with full Australian work rights, actively looking for my next role in ML, Data Science, or AI.
+
+<br/>
 
 <div align="center">
 
-| 🏅 Hackathon Winner | 📄 5+ IEEE/Scopus Papers | 🎯 Full Work Rights (AU) | 📍 Sydney, NSW |
+| 🏅 Hackathon Winner | 📄 5+ IEEE/Scopus Papers | ✅ Full Work Rights (AU) | 📍 Sydney, NSW |
 |:---:|:---:|:---:|:---:|
 
 </div>
 
 ---
 
-## 🚀 Impact by the Numbers
+## 🔬 What I've Been Working On
 
-<div align="center">
+### 🦷 Dental Imaging AI *(Current — Clinical Partnership)*
+> End-to-end computer vision system for dental radiograph analysis, built in collaboration with a dental college
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    PRODUCTION ML OUTCOMES                        ║
-╠══════════════════════╦═══════════════════╦════════════════════════╣
-║  🦷 Dental AI        ║  🏭 Industrial ML  ║  📊 IoT Analytics      ║
-║  92% Classification  ║  94% Fault Detect  ║  25% Downtime Reduced  ║
-║  88% Seg. mAP        ║  18% Perf. Boost   ║  40% Faster Response   ║
-║  70% Less Doc Time   ║  22% Fewer FP's    ║  30% Better Access     ║
-╚══════════════════════╩═══════════════════╩════════════════════════╝
-```
+The project covers the full stack: a Mask R-CNN model for radiograph classification and segmentation, a web platform for clinicians to review AI-detected findings, a cross-platform mobile app, and an automated PDF report generator. I've been the sole technical lead — data, models, backend, frontend, and deployment.
 
-</div>
+Presented at an international AI in Orthodontics conference in Saudi Arabia.
+
+`Python` `TensorFlow` `PyTorch` `Mask R-CNN` `React Native` `Flask` `PostgreSQL` `Docker` `CVAT`
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🏭 Industrial Fault Detection — Predictive Maintenance *(Published Research)*
+> Deep learning for rotating machinery fault classification at a university research lab
+
+Built CNN, LSTM, and hybrid architectures to classify faults in industrial equipment using high-frequency vibration signals. Applied PCA and Wavelet Packet Decomposition for feature engineering. This work led to **3 peer-reviewed IEEE/Scopus publications** and was validated against real-world failure scenarios with mechanical engineering faculty.
+
+`Python` `TensorFlow` `Scikit-learn` `LabVIEW` `NI DAQ` `PCA` `WPD`
+
+---
+
+### 🏆 Al Majlis AI Hackathon — 1st Place
+> Investment prediction challenge using a Central Bank of Oman dataset
+
+Built a regression model from scratch under competition conditions on a real financial dataset. Finished first out of all competing teams with an RMSLE of **0.0409**.
+
+`Python` `Scikit-learn` `Feature Engineering` `Regression`
+
+---
+
+### 📊 Subscriber Conversion Prediction *(365 Data Science Challenge)*
+> Predicting which free-plan users would convert to paid subscribers
+
+A classification project working with real behavioural data — feature engineering, handling class imbalance, and comparing model performance across algorithms.
+
+`Python` `Scikit-learn` `Pandas` `Classification` `EDA`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**ML & Deep Learning**
+**Core ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -68,7 +90,7 @@ What sets me apart? I combine the **ownership mindset** from years in my family'
 **Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 ![Mask RCNN](https://img.shields.io/badge/Mask_R--CNN-FF6B6B?style=for-the-badge)
 ![Detectron2](https://img.shields.io/badge/Detectron2-0052CC?style=for-the-badge)
 
@@ -76,80 +98,41 @@ What sets me apart? I combine the **ownership mindset** from years in my family'
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_IoT-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Visualisation**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🔬 Flagship Projects
-
-### 🦷 Dental Imaging AI System *(Active — Clinical Partnership)*
-> Full-stack AI platform for dental radiograph analysis, deployed with real clinicians
-
-- **Mask R-CNN** model achieving `92% classification accuracy` on 1,000+ radiographs
-- Automated FDI tooth numbering, anomaly detection, and PDF clinical report generation
-- Cross-platform mobile app (React Native + Flask) with `99% accurate` classification across 9 radiograph types
-- Showcased at an **international AI in Orthodontics conference** in Saudi Arabia to 200+ professionals
-- `Python` `TensorFlow` `PyTorch` `Mask R-CNN` `React Native` `Flask` `PostgreSQL` `Docker`
-
----
-
-### 🏭 Industrial Fault Detection — Predictive Maintenance
-> Deep learning for rotating machinery fault classification (Published Research)
-
-- CNN + LSTM hybrid achieving `94% accuracy` in industrial fault classification
-- Feature engineering with **PCA & Wavelet Packet Decomposition** boosting performance by `18%`
-- Led to **3 peer-reviewed IEEE/Scopus publications**
-- `Python` `TensorFlow` `Pandas` `NumPy` `LabVIEW` `NI DAQ`
-
----
-
-### 📈 IoT & Real-Time Analytics Platform
-> Azure-powered anomaly detection for industrial asset management
-
-- Built real-time IoT platform with Azure IoT Hub achieving `25% reduction in equipment downtime`
-- Automated Python ETL pipelines improving data accessibility by `30%`
-- Power BI dashboards for plant managers visualising live sensor telemetry
-- `Python` `Azure IoT Hub` `Power BI` `ETL` `Flutter` `Laravel`
-
----
-
-### 🏆 Al Majlis AI Hackathon — **1st Place Winner**
-> Investment prediction challenge using Central Bank of Oman dataset
-- RMSLE score: `0.0409` — best in competition
-- `Python` `Scikit-learn` `Feature Engineering`
-
----
-
 ## 📚 Publications
 
-| # | Title | Journal |
-|---|-------|---------|
-| 1 | Intelligent Fault Diagnosis of Rotating Machinery Using Deep Learning | IEEE/Scopus |
-| 2 | Performance Analysis of ML & DL Techniques in Diagnosing Imbalance | IJETT |
-| 3 | Comparison Analysis of ANN and XGBoost with WPD for AI in Condition Monitoring | IEEE/Scopus |
-| 4 | ML-based Financial Management Mobile Application | Published |
-| 5 | Advanced Mobile Application Powered with ML for Healthcare Services | Published |
+| Title | Journal |
+|-------|---------|
+| Intelligent Fault Diagnosis of Rotating Machinery Using Deep Learning | IEEE/Scopus |
+| Performance Analysis of ML & DL Techniques in Diagnosing Imbalance | IJETT |
+| Comparison Analysis of ANN and XGBoost with WPD for AI in Condition Monitoring | IEEE/Scopus |
+| ML-based Financial Management Mobile Application | Published |
+| Advanced Mobile App Powered with ML for Healthcare Services | Published |
 
 ---
 
-## 🎯 Currently Targeting
+## 🎯 Currently Looking For
 
 ```python
 mohsina = {
-    "location"     : "Sydney, NSW 🇦🇺",
-    "work_rights"  : "Full Australian Work Rights ✅",
-    "open_to"      : ["Healthcare / MedTech AI", "FinTech ML", "Tech Consulting"],
-    "strengths"    : ["End-to-end ML deployment", "Computer Vision", "Research → Production"],
-    "ielts"        : "Band 8.0 Academic 📝",
-    "fun_fact"     : "I presented AI research to 200+ dental professionals in Saudi Arabia 🌍"
+    "location"    : "Sydney, NSW 🇦🇺",
+    "work_rights" : "Full Australian Work Rights ✅",
+    "open_to"     : ["ML Engineer", "Data Scientist", "AI Research roles"],
+    "sectors"     : ["Healthcare / MedTech", "FinTech", "Technology"],
+    "strengths"   : ["Computer Vision", "End-to-end deployment", "Research that ships"],
+    "english"     : "IELTS Band 8.0 Academic 📝"
 }
 ```
 
@@ -170,12 +153,9 @@ mohsina = {
 
 <div align="center">
 
-<!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-**💼 Available for ML Engineer / Data Scientist roles in Sydney**
-
-*Let's build something that matters.*
+**Open to ML Engineer and Data Scientist roles in Sydney**
 
 [![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-firruk.github.io-8B5CF6?style=for-the-badge)](https://firruk.github.io/Mohsinafk/)
 [![Email](https://img.shields.io/badge/📧_mohsinafirdousk@gmail.com-EA4335?style=for-the-badge)](mailto:mohsinafirdousk@gmail.com)
